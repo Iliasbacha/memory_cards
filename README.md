@@ -1,21 +1,74 @@
-# Memory Card Game for Bilingual Lexical Development
+# 🧠 Memory Card Game for Bilingual Lexical Development
 
-This interactive memory card game is designed to support vocabulary acquisition in English and French, catering to learners at diverse proficiency levels. Through a combination of matching and translation tasks, players build bilingual language skills in a dynamic, engaging setting. Ideal for individuals dedicated to enhancing their bilingual abilities, this game offers both an educational experience and an enjoyable challenge.
+An educational serious game designed to enhance bilingual vocabulary acquisition (English–French) through dynamic, gamified learning.
 
-## How to Play
-1. **Objective**: Match hidden cards by finding pairs of words, then accurately translate the matched English term to its French equivalent to earn points.
-2. **Gameplay**:
-   - Players alternate turns selecting cards to reveal words.
-   - Upon identifying a matching pair, players translate the word to accumulate points.
-3. **Winning**: The player with the most points after all pairs are matched is declared the winner.
+---
 
-## Features
-- **Multiplayer Mode**: Encourages collaborative learning in a shared environment.
-- **Structured Vocabulary Building**: Supports English-to-French translation for vocabulary acquisition.
-- **Score Tracking**: Tracks player performance for goal-oriented practice.
-- **Randomized Word Pairs**: Ensures varied gameplay and maximizes learning opportunities with each session.
-- **Adjustable Difficulty Levels**: Offers a customized learning pace suited to different skill levels.
-- **Customizable Grid Sizes**: Allows players to tailor gameplay by selecting grid dimensions for an optimal experience.
+## 🎯 Project Overview
 
-## Educational Value
-Designed as a practical tool for language learners, this game integrates social interaction with targeted vocabulary practice. It provides a stimulating, adaptive platform for expanding bilingual proficiency through a structured yet enjoyable approach.
+This memory card game supports vocabulary development in English and French for learners of all proficiency levels. By combining word matching with translation challenges, the game fosters active recall, bilingual association, and motivation through play.
+
+Originally developed as a personal exploration of gamification in education, this project reflects a deep interest in the intersection of cognitive engagement and pedagogical design — in line with serious games and educational technologies.
+
+---
+
+## 🕹️ How to Play
+
+**Objective:** Match hidden cards and translate the matched English word to its French equivalent to earn points.
+
+### Gameplay Steps:
+- Players take turns selecting and flipping over cards to find matching English word pairs.
+- Upon finding a match, the player must correctly translate the term to French.
+- Points are awarded for correct translations.
+
+**Winning:** The player with the most points after all pairs are matched wins.
+
+---
+
+## ⚙️ Features
+
+- **Multiplayer Mode:** Promotes collaborative learning and social interaction.
+- **Score Tracking:** Reinforces performance-based learning goals.
+- **Randomized Word Pairs:** Ensures replayability and vocabulary diversity.
+- **Adjustable Difficulty Levels:** Adapts to beginner and advanced learners.
+- **Customizable Grid Sizes:** Offers flexible gameplay tailored to learner needs.
+
+---
+
+## 📚 Educational Objectives
+
+- Develop bilingual lexical recall in English and French.
+- Strengthen vocabulary through repetition and challenge-based learning.
+- Encourage cognitive engagement and retention via gamified interaction.
+
+---
+
+## 🎮 Gamification Principles Applied
+
+- **Challenge:** Memory + translation task creates dual-cognitive engagement.
+- **Progression:** Score-based goals encourage performance improvement.
+- **Feedback:** Immediate correctness check supports adaptive learning.
+- **Volition:** Choice-based gameplay increases motivation and autonomy.
+
+---
+
+## 🧩 Future Directions
+
+This game design could be adapted to:
+- Teach **medical or healthcare vocabulary** (anatomy, diagnostics, pharmacology)
+- Serve as a **foundation for a digital serious game** (Unity or web-based)
+- Integrate **AI-driven personalization or spaced repetition algorithms**
+
+---
+
+## 🔗 Repository Contents
+
+- Rulebook / gameplay instructions (EN/FR)
+- Printable card templates
+- README (this file)
+
+---
+
+## 👤 Author
+
+Created by El Bacha — Biomedical Engineering & AI graduate, passionate about educational technologies and serious games.
