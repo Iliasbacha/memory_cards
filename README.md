@@ -63,8 +63,11 @@ This game design could be adapted to:
 
 ## 🔗 Repository Contents
 
-- Rulebook / gameplay instructions (EN/FR)
-- Printable card templates
+- `memory_translat.py` – main implementation of the memory card game
+- `tanslationgame.py` – simplified translation game prototype
+- `memory_translat.spec` – PyInstaller build configuration
+- `build/` and `dist/` – generated executables and build artifacts
+- `nouveau` – alternate experimental script
 - README (this file)
 
 ---
