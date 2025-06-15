@@ -61,6 +61,24 @@ This game design could be adapted to:
 
 ---
 
+## 🚀 Running and Rebuilding
+
+After installing the required Python packages, you can start the game directly
+from the source code:
+
+```bash
+python memory_translat.py
+```
+
+If you modify the code and would like a new standalone executable, rebuild it
+with PyInstaller:
+
+```bash
+pyinstaller memory_translat.spec
+```
+
+Run the updated script or the rebuilt executable so that any changes take effect.
+
 ## 🔗 Repository Contents
 
 - Rulebook / gameplay instructions (EN/FR)
